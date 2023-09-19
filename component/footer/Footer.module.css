@@ -1,0 +1,16 @@
+.footer{
+     padding: 5% 5%;
+     width: 100%;
+     background-color: white;
+}
+.pageFooter{
+     list-style: none;
+}
+.listPage{
+     margin-bottom: 15px;
+}
+.copyright{
+     background-color: #f4f4f4;
+     text-align: center;
+     padding: 10px;
+}

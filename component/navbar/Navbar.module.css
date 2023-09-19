@@ -1,0 +1,20 @@
+.navbarSection{
+     margin: 0% 5% 0% 5%;
+     font-family: 'Montserrat', sans-serif;
+}
+.navbar{
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     padding: 5px 0px;
+     background-color: white;
+}
+.navGroup{
+     display: flex;
+     list-style: none;
+   
+}
+.navGroup li{
+     margin-left: 50px;
+     text-decoration: none;
+}
